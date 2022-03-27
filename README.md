@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hundway
+- 👀 I’m interested in learning everything about programming
+- 🌱 I’m currently learning data structures, Python and C++
