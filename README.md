@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Hundway
-- 👀 I’m interested in learning everything about programming
-- 🌱 I’m currently learning data structures, Python and C++
+- Hi, I'm Maxwell Pereira @Hundway an exact sciences and technologies student at UFVJM from Janaúba-MG/Brazil, who wishes to become a full programmer.
+- I have an intermediate understanding of C, but am currently learning data structures, Python and C++
+- I’m interested in learning everything about programming
